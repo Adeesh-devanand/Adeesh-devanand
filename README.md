@@ -40,40 +40,38 @@ Built a prototype **agentic pre-diagnostic workflow** for Kafka alarms in Nokia�
 
 ---
 
-### Languages and Tools
+**Toolbox:** 
+[<img alt="Python" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python] Python ·
+[<img alt="Java" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][java] Java ·
+[<img alt="C++" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cpp] C++ ·
+[<img alt="SQL" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][sql] SQL ·
+[<img alt="Bash" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][bash] Bash ·
+[<img alt="PostgreSQL" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][postgres] PostgreSQL ·
+[<img alt="Docker" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][docker] Docker ·
+[<img alt="Kubernetes" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />][kubernetes] Kubernetes ·
+[<img alt="Kafka" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />][kafka] Kafka ·
+[<img alt="FastAPI" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />][fastapi] FastAPI ·
+[<img alt="AWS" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws] AWS ·
+[<img alt="Azure" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />][azure] Azure ·
+[<img alt="PyTorch" width="16px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch] PyTorch ·
+[<img alt="NumPy" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />][numpy] NumPy ·
+[<img alt="Pandas" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />][pandas] Pandas
 
-#### Languages
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][java]
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cpp]
-[<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][sql]
-[<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][bash]
-
-<br />
-
-#### Backend / Infra
-[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][docker]
-[<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />][kubernetes]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][postgres]
-[<img align="left" alt="Kafka" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />][kafka]
-[<img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />][fastapi]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
-
-<br />
-
-#### AI / ML
-[<img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
-[<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />][numpy]
-[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />][pandas]
-[<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />][jupyter]
-
-<br />
-
-#### Cloud
-[<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws]
-[<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />][azure]
-
-<br />
+[python]: https://www.python.org/
+[java]: https://www.oracle.com/java/
+[cpp]: https://isocpp.org/
+[sql]: https://www.postgresql.org/
+[bash]: https://www.gnu.org/software/bash/
+[postgres]: https://www.postgresql.org/
+[docker]: https://www.docker.com/
+[kubernetes]: https://kubernetes.io/
+[kafka]: https://kafka.apache.org/
+[fastapi]: https://fastapi.tiangolo.com/
+[aws]: https://aws.amazon.com/
+[azure]: https://azure.microsoft.com/
+[pytorch]: https://pytorch.org/
+[numpy]: https://numpy.org/
+[pandas]: https://pandas.pydata.org/
 
 ---
 
@@ -82,28 +80,3 @@ Built a prototype **agentic pre-diagnostic workflow** for Kafka alarms in Nokia�
 - Vetra: [myvetra.ca][vetra_site] · [github.com/my-vetra][vetra_org]
 
 ---
-
-[linkedin]: https://www.linkedin.com/in/adeesh-devanand
-[vetra_site]: https://myvetra.ca/
-[vetra_org]: https://github.com/my-vetra
-
-[python]: https://www.python.org/
-[java]: https://www.oracle.com/java/
-[cpp]: https://isocpp.org/
-[sql]: https://www.postgresql.org/
-[bash]: https://www.gnu.org/software/bash/
-
-[docker]: https://www.docker.com/
-[kubernetes]: https://kubernetes.io/
-[postgres]: https://www.postgresql.org/
-[kafka]: https://kafka.apache.org/
-[fastapi]: https://fastapi.tiangolo.com/
-[git]: https://git-scm.com/
-
-[pytorch]: https://pytorch.org/
-[numpy]: https://numpy.org/
-[pandas]: https://pandas.pydata.org/
-[jupyter]: https://jupyter.org/
-
-[aws]: https://aws.amazon.com/
-[azure]: https://azure.microsoft.com/
