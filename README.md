@@ -79,4 +79,8 @@ Built a prototype **agentic pre-diagnostic workflow** for Kafka alarms in Nokiaâ
 - LinkedIn: [adeesh-devanand][linkedin]
 - Vetra: [myvetra.ca][vetra_site] Â· [github.com/my-vetra][vetra_org]
 
+[linkedin]: https://www.linkedin.com/in/adeesh-devanand
+[vetra_site]: https://myvetra.ca/
+[vetra_org]: https://github.com/my-vetra
+
 ---
