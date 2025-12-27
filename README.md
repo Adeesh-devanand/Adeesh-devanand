@@ -2,13 +2,13 @@
 
 I’m a **Computer Science student @ UBC (Expected May 2027)** based in **Vancouver**, focused on **backend / infrastructure** and **AI systems** (RAG + agentic workflows). I like building systems that are **measurable, debuggable, and shippable**—from tool-driven LLM assistants to production serverless backends.
 
-- **Software Developer Co-op @ Nokia** — agentic workflows + RAG for alarm triage (LangGraph/ReAct, MCP tool servers, pgvector eval)
-- **Founder / Builder @ Vetra** — iOS + firmware + AWS serverless backend for connected devices
+- **Ex Software Developer Co-op @ Nokia** — agentic workflows + RAG for alarm triage (LangGraph/ReAct, MCP tool servers, pgvector eval)
+- **Founder / Developer @ Vetra** — iOS + firmware + AWS serverless backend for connected devices
 - **AWS Certified Developer – Associate (DVA-C02)** (Jan 2026)
 
 📍 Vancouver, BC  
 🔗 LinkedIn: [adeesh-devanand][linkedin]  
-🌐 Vetra: [myvetra.ca][vetra_site]
+🌐 Vetra: [myvetra.ca][vetra_site] · [GitHub Org][vetra_org]
 
 ---
 
@@ -17,10 +17,15 @@ I’m a **Computer Science student @ UBC (Expected May 2027)** based in **Vancou
 A full-stack product spanning **hardware**, **mobile**, and **cloud**.
 
 - 🌐 Product site: [myvetra.ca][vetra_site]
-- 📱 iOS app (Swift): [Repo + README][vetra_ios]
-- 🔧 Firmware (ESP32-C3): [Repo + README][vetra_fw]
+- 🧩 Code + docs hub: [github.com/my-vetra][vetra_org]
 
 **Backend (AWS):** API Gateway + Lambda + DynamoDB + Cognito (OAuth2 + federation), RBAC authorizer, single-table access patterns, transactional writes.
+
+**App (iOS):** SwiftUI + CoreBluetooth + CoreData + XCTest (unit, fuzz, edge-case, UI), MVVM (MainViewModel), BluetoothManager + SyncBridge (BLE parsing), repository pattern (PuffRepo, PhaseRepo, SessionLifetimeRepo), offline-first storage, Info.plist permissions + entitlements, Xcode scheme + xcodebuild.
+
+**Firmware (ESP32-C3):** Arduino + PlatformIO + BLE (diagnostic logs) + NVS (epoch persistence), GPIO ISR flagging, DebounceManager in main loop, puff-count state machine, coil lock/unlock, deep-sleep (ext1 GPIO HIGH wake), ring-buffer logging.
+
+*(Pinned repos below: iOS app + firmware + backend components.)*
 
 ---
 
@@ -45,7 +50,6 @@ Built a prototype **agentic pre-diagnostic workflow** for Kafka alarms in Nokia�
 [<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][bash]
 
 <br />
-<br />
 
 #### Backend / Infra
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][docker]
@@ -56,7 +60,6 @@ Built a prototype **agentic pre-diagnostic workflow** for Kafka alarms in Nokia�
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
 
 <br />
-<br />
 
 #### AI / ML
 [<img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
@@ -65,30 +68,24 @@ Built a prototype **agentic pre-diagnostic workflow** for Kafka alarms in Nokia�
 [<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />][jupyter]
 
 <br />
-<br />
 
 #### Cloud
 [<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws]
 [<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />][azure]
 
 <br />
-<br />
 
 ---
 
 ## Links
 - LinkedIn: [adeesh-devanand][linkedin]
-- Vetra: [myvetra.ca][vetra_site]
-- Vetra iOS: [app-ios][vetra_ios]
-- Vetra firmware: [vape-firmware][vetra_fw]
+- Vetra: [myvetra.ca][vetra_site] · [github.com/my-vetra][vetra_org]
 
 ---
 
 [linkedin]: https://www.linkedin.com/in/adeesh-devanand
 [vetra_site]: https://myvetra.ca/
-
-[vetra_ios]: https://github.com/my-vetra/app-ios/blob/main/README.md
-[vetra_fw]: https://github.com/my-vetra/vape-firmware/blob/main/README.md
+[vetra_org]: https://github.com/my-vetra
 
 [python]: https://www.python.org/
 [java]: https://www.oracle.com/java/
