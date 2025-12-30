@@ -12,7 +12,7 @@ I’m a **Computer Science student @ UBC (Expected May 2027)** based in **Vancou
 
 ---
 
-## 🚀 Featured: Vetra (iOS + Firmware + AWS)
+## Featured: Vetra (iOS + Firmware + AWS)
 
 A full-stack product spanning **hardware**, **mobile**, and **cloud**.
 
@@ -29,7 +29,7 @@ A full-stack product spanning **hardware**, **mobile**, and **cloud**.
 
 ---
 
-## 🧠 Experience highlight: Nokia (Agentic RAG + Infra)
+## Experience highlight: Nokia (Agentic RAG + Infra)
 
 Built a prototype **agentic pre-diagnostic workflow** for Kafka alarms in Nokia’s NSP.
 
