@@ -4,7 +4,6 @@ I’m a **Computer Science student @ UBC (Expected May 2027)** based in **Vancou
 
 - **Ex Software Developer Co-op @ Nokia** — agentic workflows + RAG for alarm triage (LangGraph/ReAct, MCP tool servers, pgvector eval)
 - **Founder / Developer @ Vetra** — iOS + firmware + AWS serverless backend for connected devices
-- **AWS Certified Developer – Associate (DVA-C02)** (Jan 2026)
 
 📍 Vancouver, BC  
 🔗 LinkedIn: [adeesh-devanand][linkedin]  
